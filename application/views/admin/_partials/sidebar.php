@@ -1,11 +1,11 @@
-    <ul class="navbar-nav bg-gradient-warning sidebar sidebar-dark accordion" id="accordionSidebar">
+    <ul class="navbar-nav bg-gradient-info sidebar sidebar-dark accordion" id="accordionSidebar">
 
       <!-- Sidebar - Brand -->
       <a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.html">
         <div class="sidebar-brand-icon rotate-n-15">
-         <i class="fas fa-seedling"></i>
+         <i class="fas fa-mobile-alt"></i>
         </div>
-        <div class="sidebar-brand-text mx-3">hanzfurniture<sup></sup></div>
+        <div class="sidebar-brand-text mx-3">MG_PHONE<sup></sup></div>
       </a>
 
       <!-- Divider -->

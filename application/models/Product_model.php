@@ -2,7 +2,7 @@
 
 class Product_model extends CI_Model
 {
-	private $_table = "tb_jamur";
+	private $_table = "tb_konter";
 
 	public $id_barang;
 	public $nama_barang;
